@@ -1,20 +1,47 @@
 project:
   type: website
   output-dir: docs
-  
+
 website:
-  title: "zelalemteferi.github.io"
+  title: "Zelalem Teferi"
+  site-url: https://zelalemteferi.github.io/
   navbar:
+    favicon: images/myFavicon.png
+    title: false
+    logo: images/logo-dark.png
+    logo-alt: "alt text here"
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: blog.qmd
+      - href: resources.qmd
+        text: Resources
+      - href: cv/Zelalem_Teferi_CV.pdf
+        text: CV
+      - href: cv/Zelalem-Teferi_CV_Nov-2023_(WB-Format).pdf
+        text: (Worl Bank Format)
+    right: 
+      - icon: github
+        href: https://github.com/zelalemteferi
+  page-footer:
+    background: light
+    left: "Copyright 2021, Samantha Csik"
+    right: 
+      - icon: github
+        href: https://github.com/zelalemteferi
+    
 
 format:
   html:
     theme: cosmo
+    dark: solar
     css: styles.css
+    # css: styles.css
+    mainfont: Nunito
     toc: true
+    page-layout: full
 
+editor: source
 
 

@@ -1,7 +1,34 @@
 ---
-title: "zelalemteferi.github.io"
+title: "Zelalem Teferi Abate"
+image: images/me.jpg
+toc: false
+about:
+  template: trestles
+  image-shape: round
+  image-width: 20em
+  links:
+    - text: LinkedIn
+      href: https://github.com/zelalemteferi
+      icon: linkedin
+    - text: GitHub
+      icon: github
+      href: https://github.com/zelalemteferi
+    - text: Email
+      href: mailto::phatzolo@gmail.com
 ---
 
-This is a Quarto website.
+## Hello!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hi this is Zelalem!
+
+---
+
+## Education: 
+
+Master of Science in Cyber security (Network & Systems Security Stream), Addis Ababa Institute of Technology (AAiT), Addis Ababa University, Ethiopia [2023],
+
+Bachelor of Science in Computer Science, Addis Ababa University, Ethiopia [2009]
+---
+
+## Experience:
+

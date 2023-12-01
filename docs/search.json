@@ -1,16 +1,37 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "zelalemteferi.github.io",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Zelalem Teferi Abate",
+    "section": "",
+    "text": "Hi this is Zelalem!"
+  },
+  {
+    "objectID": "index.html#hello",
+    "href": "index.html#hello",
+    "title": "Zelalem Teferi Abate",
+    "section": "",
+    "text": "Hi this is Zelalem!"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Zelalem Teferi Abate",
+    "section": "Education:",
+    "text": "Education:\nMaster of Science in Cyber security (Network & Systems Security Stream), Addis Ababa Institute of Technology (AAiT), Addis Ababa University, Ethiopia [2023],\nBachelor of Science in Computer Science, Addis Ababa University, Ethiopia [2009]"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Zelalem Teferi Abate",
+    "section": "Experience:",
+    "text": "Experience:"
   }
 ]
