@@ -1,5 +1,5 @@
 ---
-title: "Zelalem Teferi Abate"
+title: "Home"
 image: images/me.jpg
 toc: false
 about:
